@@ -1,0 +1,4 @@
+{
+    "name": "Check Checkboxes Workflow",
+    "description": "A workflow to check that all checkboxes in the form are checked"
+}

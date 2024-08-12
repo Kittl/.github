@@ -1,3 +1,4 @@
+<!-- ignore-task-list-start -->
 **Description:**
 
 Add description here. It should illustrate the main purpose of the PR, including an overview of the problem and the technical solution. It should not repeat the task description, but rather go in depth regarding implementation choices. If the PR is really simple, this can be avoided, and the section deleted.
@@ -14,6 +15,7 @@ Add description here. It should illustrate the main purpose of the PR, including
 
 - Add here screenshots, or a loom, showcasing the changes
 
+<!-- ignore-task-list-end -->
 **Checklist (based on [PR guidelines](https://www.notion.so/kittl/Pull-request-review-guide-c820979d6b3a401a952bd15f6353fbc2)):**
 
 - [ ] I have self-reviewed this PR, according to [these points](https://www.notion.so/kittl/Pull-request-review-guide-c820979d6b3a401a952bd15f6353fbc2?pvs=4#cce74429793a46aa9e448cbe8ed97221)
