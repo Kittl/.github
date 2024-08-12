@@ -1,0 +1,15 @@
+name: 'PR Checkboxes Check'
+
+# any event that might update the PR description
+on: 
+  pull_request:
+    types: [opened, edited]
+
+# using https://github.com/kentaro-m/task-completed-checker-action
+jobs:
+  checkboxes-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: kentaro-m/task-completed-checker-action@v0.1.2
+        with:
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
