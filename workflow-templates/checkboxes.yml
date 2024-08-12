@@ -1,6 +1,6 @@
 name: 'PR Checkboxes Check'
 
-# any any event that might update the PR description
+# any event that might update the PR description
 on: 
   pull_request:
     types: [opened, edited]
