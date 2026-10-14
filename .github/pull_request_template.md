@@ -1,15 +1,15 @@
 <!-- ignore-task-list-start -->
 **Description:**
 
-Add description here. It should illustrate the main purpose of the PR, including an overview of the problem and the technical solution. It should not repeat the task description, but rather go in depth regarding implementation choices. If the PR is really simple, this can be avoided, and the section deleted.
+Explain why the change is needed, how it works in the implementation, and why this approach was chosen (when there was a real choice). Also mention anything the diff does not show: deliberate omissions, rollout or deploy order, feature flags, risks, or what was not verified. Length follows the content: a complex change can take several paragraphs, a simple one a sentence. Do not restate what the diff already shows (added tests, moved or renamed files, new components, refactors).
 
-**This PR includes:**
+**Additionally, this also includes:**
 
-- Add main changes here
+- Optional, delete if empty. Only side changes a reviewer would not expect from the description, e.g. an unrelated fix, or a summary of a generated diff that is hard to read (icons, API client, tokens)
 
-**How to run:**
+**How to test:**
 
-- Add instructions on how to run here
+- Steps to reproduce the issue and what happens now, or where to find the feature (preview link, page, flag, required plan or data) and what to expect. Do not list lint, type checks, or tests; CI runs them
 
 **Demo:**
 
