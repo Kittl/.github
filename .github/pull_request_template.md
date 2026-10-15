@@ -9,7 +9,7 @@ Explain why the change is needed, how it works in the implementation, and why th
 
 **How to test:**
 
-- Steps to reproduce the issue and what happens now, or where to find the feature (preview link, page, flag, required plan or data) and what to expect. Do not list lint, type checks, or tests; CI runs them
+- How a reviewer can check this change: how to run it, what to do, and what to expect. For a bug, how to reproduce it; for a feature, where to find it (preview link, page, flag, required plan or data)
 
 **Demo:**
 
